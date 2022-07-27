@@ -232,7 +232,7 @@ $(document).ready(function () {
         });
 
         moreFiltersDrop.on("input", function () {
-            moreFilters = $(this).val();
+            filters = $(this).val();
             Controller();
         });
 
