@@ -1,9 +1,8 @@
-# Assignment_5 #
+# Search Hotel with custom filters #
 
-## Description ##
 
 <details>
-<summary><h3>Details</h3></summary>
+<summary><h3>Requirements</h3></summary>
 <p>You are required to build,using any techniques that you have learned and any other techniques that you might find, the following layout. Make sure you design and replicate the following as closest as possible. <br/>Each component is described below by its number and what it should contain. Good luck! </p>
 <p>Via the data.json file which is provided you must consume the data to display for. You should do an ajax call to get them and build dynamically the page.</p>
 <ol>
